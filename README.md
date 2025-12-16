@@ -1,6 +1,6 @@
 # Differential_amplifier-
-## REG NUM :
-## NAME :
+## REG NUM :Surjini.R
+## NAME :25015534
 ## EXPERIMENT 3:Design a CMOS Differential Amplifier and find out the Transient, DC and OP analysis.
 ## Aim:
 To Design CMOS Differential Amplifier and Perform Transient, DC and OP analysis.
@@ -44,6 +44,8 @@ Netlist and Run in the simulation window start the Simulation.
 When simulation finishes,theTransient plots automatically will be poppedup along file.
 
 ## WAVEFORM:
+<img width="975" height="436" alt="image" src="https://github.com/user-attachments/assets/68653ba8-8c12-42c8-b8ff-d634f73bd4ba" />
+<img width="975" height="542" alt="image" src="https://github.com/user-attachments/assets/1d2bd794-2539-4297-ba27-a800932d372c" />
 
 ## RTESULT:
 Design of CMOS Differential Amplifier Transient and op analysesis performed.
