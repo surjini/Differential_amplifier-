@@ -44,10 +44,9 @@ Netlist and Run in the simulation window start the Simulation.
 When simulation finishes,theTransient plots automatically will be poppedup along file.
 
 ## WAVEFORM:
-<img width="975" height="436" alt="image" src="https://github.com/user-attachments/assets/68653ba8-8c12-42c8-b8ff-d634f73bd4ba" />
-<img width="975" height="542" alt="image" src="https://github.com/user-attachments/assets/1d2bd794-2539-4297-ba27-a800932d372c" />
+<img width="1912" height="938" alt="out diff amp 1" src="https://github.com/user-attachments/assets/14125458-14a5-41fa-93f9-b5a6ee8def67" />
 
-## RTESULT:
+## RESULT:
 Design of CMOS Differential Amplifier Transient and op analysesis performed.
 
 
